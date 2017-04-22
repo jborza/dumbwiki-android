@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_edit"
+        android:title="Edit this page"
+        android:icon="@drawable/ic_menu_edit" />
+    <item
+        android:id="@+id/menu_home"
+        android:title="Go to HOME"
+        android:icon="@drawable/ic_menu_home" />
+    <item
+        android:id="@+id/menu_back"
+        android:title="Back 1 page"
+        android:icon="@drawable/ic_menu_back" />
+    <item
+        android:id="@+id/menu_backup"
+        android:title="Backup to SD Card"
+        android:icon="@drawable/ic_menu_upload" />
+    <item
+        android:id="@+id/menu_restore"
+        android:title="Restore from SD Card"
+        android:icon="@drawable/ic_menu_revert" />
+</menu> 

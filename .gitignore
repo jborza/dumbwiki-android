@@ -1,0 +1,6 @@
+app/build/
+.gradle/3.3/taskArtifacts/fileSnapshots.bin
+.gradle/
+.idea/
+build/android-profile/
+build/generated/
